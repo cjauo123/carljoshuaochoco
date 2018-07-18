@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "name": "Pagoda San Fernando City, La Union",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 0,
+    "priceCurrency": "Peso",
+    "lat": 16.614259,
+    "lng": 120.319235
   },
   {
     "id": 148,
@@ -20,10 +20,10 @@
   {
     "id": 201,
     "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/02/79/57/47/filename-img-2338-jpg.jpg",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
+    "lat": 16.614259,
     "lng": 2.341225
   },
   {
