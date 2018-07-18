@@ -100,6 +100,15 @@
   },
    {
     "id": 12,
+    "name": "Sebay Resort",
+    "imageUrl": "https://mw2.google.com/mw-panoramio/photos/medium/64276753.jpg",
+    "price": 30,
+    "priceCurrency": "Peso",
+    "lat": 16.6570,
+    "lng": 120.3209
+  },
+   {
+    "id": 13,
     "name": "Carls House",
     "imageUrl": "https://github.com/cjauo123/carljoshuaochoco/blob/master/wew.jpg?raw=true",
     "price": 20,
