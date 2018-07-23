@@ -6,7 +6,8 @@
     "price": 20,
     "priceCurrency": "Peso",
     "lat": 16.614259,
-    "lng": 120.319235
+    "lng": 120.319235,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
   },
   {
     "id": 2,
@@ -15,7 +16,9 @@
     "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.6436,
-    "lng": 120.4488
+    "lng": 120.4488,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
   {
     "id": 3,
@@ -24,7 +27,9 @@
     "price": 10,
     "priceCurrency": "Peso",
     "lat": 16.6212,
-    "lng":120.3175
+    "lng":120.3175,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
   {
     "id": 4,
@@ -33,7 +38,9 @@
     "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.6149,
-    "lng": 120.2808
+    "lng": 120.2808,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
   {
     "id": 5,
@@ -42,7 +49,9 @@
     "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.5881,
-    "lng": 120.3146
+    "lng": 120.3146,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
   {
     "id": 6,
@@ -51,7 +60,9 @@
     "price": 40,
     "priceCurrency": "Peso",
     "lat": 16.3247,
-    "lng": 120.3551
+    "lng": 120.3551,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 7,
@@ -60,7 +71,9 @@
     "price": 80,
     "priceCurrency": "Peso",
     "lat": 16.7995,
-    "lng": 120.3574 
+    "lng": 120.3574,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 8,
@@ -69,7 +82,9 @@
     "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.8568,
-    "lng": 120.3729 
+    "lng": 120.3729,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 9,
@@ -78,7 +93,9 @@
      "price": 100,
     "priceCurrency": "Peso",
     "lat": 16.3210,
-    "lng": 120.4812 
+    "lng": 120.4812,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 10,
@@ -87,7 +104,9 @@
      "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.3537,
-    "lng": 120.4899 
+    "lng": 120.4899,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 11,
@@ -96,7 +115,9 @@
      "price": 50,
     "priceCurrency": "Peso",
     "lat": 16.3298,
-    "lng": 120.3681 
+    "lng": 120.3681,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 12,
@@ -105,15 +126,19 @@
     "price": 30,
     "priceCurrency": "Peso",
     "lat": 16.6570,
-    "lng": 120.3209
+    "lng": 120.3209,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   },
    {
     "id": 13,
-    "name": "Carls House",
+    "name": "Carl's House",
     "imageUrl": "https://github.com/cjauo123/carljoshuaochoco/blob/master/wew.jpg?raw=true",
     "price": 20,
     "priceCurrency": "Peso",
     "lat": 16.577081,
-    "lng": 120.332312 
+    "lng": 120.332312,
+    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
+  
   }
 ]
