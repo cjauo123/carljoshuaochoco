@@ -42,5 +42,16 @@
     "lng": 120.319235,
     "qty":2,
     "branch": "AGOO"
+  },
+  {
+    "id": 5,
+    "name": "aaxvzcv weaX",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 20000,
+    "priceCurrency": "Peso",
+    "lat": 16.614259,
+    "lng": 120.319235,
+    "qty":2,
+    "branch": "AGOO"
   }
 ]
