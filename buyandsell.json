@@ -19,6 +19,28 @@
     "lat": 16.614259,
     "lng": 120.319235,
     "qty":2,
+    "branch": "SFC"
+  },
+  {
+    "id": 3,
+    "name": "weadasf",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 20000,
+    "priceCurrency": "Peso",
+    "lat": 16.614259,
+    "lng": 120.319235,
+    "qty":2,
+    "branch": "AGOO"
+  },
+  {
+    "id": 4,
+    "name": "asdf asdfX",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 20000,
+    "priceCurrency": "Peso",
+    "lat": 16.614259,
+    "lng": 120.319235,
+    "qty":2,
     "branch": "AGOO"
   }
 ]
