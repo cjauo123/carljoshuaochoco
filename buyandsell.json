@@ -8,7 +8,7 @@
     "lat": 16.614259,
     "lng": 120.319235,
     "qty":5,
-    "branch": "San Fernando City, La Union"
+    "branch": "SFC"
   },
   {
     "id": 2,
@@ -19,6 +19,6 @@
     "lat": 16.614259,
     "lng": 120.319235,
     "qty":2,
-    "branch": "Agoo, La Union"
+    "branch": "AGOO"
   }
 ]
