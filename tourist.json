@@ -61,14 +61,13 @@
   },
    {
     "id": 7,
-    "name": "Occalong Falls",
-    "imageUrl": "https://lunalaunion.files.wordpress.com/2012/04/occalongfalls-2.jpg",
+    "name": "Bahay na Bato",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOoYgKJSimP1s5rKSGcCTLhtOCU680xDJcXs1g4=s1600-w400",
      "price": 80,
     "priceCurrency": "Peso",
-    "lat": 16.7995,
-    "lng": 120.3574,
-    "des":"Pagoda Hill is a popular place for sightseeing and strolling and has long been established as a place for people to meet, talk and relax amidst the wonderful backgound of the San Fernando landscape and cityscape.  It is also a popular place for couples, friends and old-timers alike.  People have always remembered seeing the beautiful La Union sunset from the sun deck."
-  
+    "lat": 16.847460,
+    "lng": 120.351395,
+    "des":"Bahay na Bato (stone house) is situated in a 35,000-populated municipality of Luna (Philippine Statistics Authority, 2010). In reality, it is not a house made entirely from stones, although the concrete walls are plastered with stones and the floor is strewn with large, smooth, flat pebbles. Adornments of carved stones, woods and World War II items are seen inside the house. "
   },
    {
     "id": 8,
