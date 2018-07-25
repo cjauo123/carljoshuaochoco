@@ -197,6 +197,69 @@
     "lng": 123.559704,
     "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
   },
+  {
+    "id": 23,
+    "name": "Huma Island, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/maxresdefault.jpg",
+    "distance": 753,
+    "lat": 12.076339, 
+    "lng": 119.884322,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 24,
+    "name": "Coron, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-519681201.png",
+    "distance": 710,
+    "lat": 11.947390,
+    "lng": 120.209868,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 25,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
+    "distance": 888,
+    "lat": 11.237720,
+    "lng":  119.470886,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 26,
+    "name": "Camotes Island, Cebu",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/460407412_cb9fa4c827_b.png",
+    "distance": 1329,
+    "lat": 10.691048,
+    "lng": 124.392182,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 27,
+    "name": "Boracay, Aklan",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
+    "distance": 715,
+    "lat": 11.947200, 
+    "lng": 121.965487,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 28,
+    "name": "Vigan",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
+    "distance": 136,
+    "lat": 17.586559,
+    "lng":  120.392520,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
+  {
+    "id": 29,
+    "name": "Vigan",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
+    "distance": 136,
+    "lat": 17.586559,
+    "lng":  120.392520,
+    "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
+  },
    {
     "id": 23,
     "name": "Carl's House",
