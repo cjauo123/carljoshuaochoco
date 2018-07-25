@@ -245,7 +245,7 @@
   {
     "id": 28,
     "name": "Vigan",
-    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-539019147.jpg",
     "distance": 136,
     "lat": 17.586559,
     "lng":  120.392520,
@@ -253,20 +253,20 @@
   },
   {
     "id": 29,
-    "name": "Vigan",
-    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2017/11/bojo-river-traveling-morion-750x469.jpg",
-    "distance": 136,
-    "lat": 17.586559,
-    "lng":  120.392520,
+    "name": " Siquijor Island",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
+    "distance": 1246,
+    "lat": 9.299803, 
+    "lng":  123.610109,
     "des":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. Throughout the year, various competitions, activities and parties are held right in front of Sebay. San Juan is famous for the beautiful sunset, affordable seafood and the best surf spot for beginners and pro alike."
   },
    {
-    "id": 23,
-    "name": "Carl's House",
+    "id": 30,
+    "name": "Catanduanes",
     "imageUrl": "https://github.com/cjauo123/carljoshuaochoco/blob/master/wew.jpg?raw=true",
-    "distance": 20,
-    "lat": 16.577081,
-    "lng": 120.332312,
+    "distance": 830,
+    "lat": 13.582928, 
+    "lng": 124.102489,
     "des":"Bahay ni Carl Joshua Ochoco. Hindi pa tapos kasi walang budget!"
   }
 ]
